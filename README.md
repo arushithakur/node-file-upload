@@ -7,5 +7,10 @@ Use /upload to upload the file.
 
 params required : 
 
-1. file : The file to be uploaded
-2. name : Name of the folder to be created on server
+1. name : Name of the folder to be created on server
+2. file : The file to be uploaded
+
+
+command to run :
+
+yarn dev
